@@ -1,3 +1,3 @@
 # Command-Cheat-Sheet
 
-[Gitlab-Commands](other_file.md)
+1. [Gitlab-Commands](Git-Command-Cheat-Sheet.md)
